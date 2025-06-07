@@ -3,7 +3,7 @@
 
 # 💫 About Me
 
-I'm passionate about QA Automation and dedicated to expanding my knowledge in **C#**, **JavaScript**, and modern testing frameworks.  
+I'm passionate about QA Automation and dedicated to expanding my knowledge in **C#**, **JavaScript**, test automation, as well as modern testing frameworks and tools as part of my training.  
 My goal is to master automated testing techniques and contribute to delivering reliable software solutions.
 
 ---
