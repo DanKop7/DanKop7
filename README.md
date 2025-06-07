@@ -12,3 +12,8 @@ My goal is to master automated testing techniques and contribute to delivering r
 - Build a solid foundation in automation testing  
 - Contribute to real-world projects  
 - Land my first role as a Junior QA Automation Engineer
+
+---
+
+### 📫 Let's connect
+[LinkedIn](https://www.linkedin.com/in/daniel-kopanarov/)
