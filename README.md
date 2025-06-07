@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">QA enthusiast exploring automation testing</h3>
+<h3 align="center">QA enthusiast exploring automation testing and continuously learning</h3>
 
 # 💫 About Me
 
-I am passionate about QA Automation and continuously developing my skills in **C#**, **JavaScript**, and modern testing tools.  
-Currently, I’m focused on learning how to write clean, efficient, and reliable automated tests to help deliver high-quality software.
+I'm passionate about QA Automation and dedicated to expanding my knowledge in **C#**, **JavaScript**, and modern testing frameworks.  
+My goal is to master automated testing techniques and contribute to delivering reliable software solutions.
 
 ---
 
