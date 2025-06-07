@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">QA enthusiast on a journey to automation testing</h3>
 
 # 💫 About Me
 
