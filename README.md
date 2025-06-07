@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
+<h3 align="center">QA enthusiast exploring automation testing</h3>
 
 # 💫 About Me
 
-I'm a QA enthusiast on a journey to become a QA Automation Engineer.  
-Currently, I'm studying **C#**, **JavaScript**, test automation, and popular QA tools as part of my training.  
-I'm passionate about writing clean and reliable test code, understanding how software works, and continuously improving my skills.
+I am passionate about QA Automation and continuously developing my skills in **C#**, **JavaScript**, and modern testing tools.  
+Currently, I’m focused on learning how to write clean, efficient, and reliable automated tests to help deliver high-quality software.
 
 ---
 
@@ -12,8 +12,3 @@ I'm passionate about writing clean and reliable test code, understanding how sof
 - Build a solid foundation in automation testing  
 - Contribute to real-world projects  
 - Land my first role as a Junior QA Automation Engineer
-
-
-
-
-
