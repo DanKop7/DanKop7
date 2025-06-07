@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-👩‍💻 Hi! I'm a QA enthusiast on a journey to become a QA Automation Engineer.  
+I'm a QA enthusiast on a journey to become a QA Automation Engineer.  
 Currently, I'm studying **C#**, **JavaScript**, test automation, and popular QA tools as part of my training.  
 I'm passionate about writing clean and reliable test code, understanding how software works, and continuously improving my skills.
 
